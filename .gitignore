@@ -5,3 +5,5 @@ node_modules/
 .env.*
 .vercel/
 .output/
+__pycache__/
+*.py[cod]
