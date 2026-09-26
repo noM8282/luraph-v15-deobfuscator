@@ -1,0 +1,9 @@
+node_modules
+.git
+.vercel
+.output
+.env
+.env.*
+.grok/preview.log
+.project_id
+.github_repo

@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Deobf — Luraph v15",
+      "hasCanvas": false,
+      "bodyTextLen": 640,
+      "bodyTextHash": "614e0aaded8139a31ce1720c712dca1bca48627d07572052f2cc414b9e762d21",
+      "bodyTextPrefix": "DEOBF Luraph v15 decompiler Paste protected Luau, pick a file, o",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Deobf — Luraph v15",
+      "hasCanvas": false,
+      "bodyTextLen": 640,
+      "bodyTextHash": "614e0aaded8139a31ce1720c712dca1bca48627d07572052f2cc414b9e762d21",
+      "bodyTextPrefix": "DEOBF Luraph v15 decompiler Paste protected Luau, pick a file, o",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
