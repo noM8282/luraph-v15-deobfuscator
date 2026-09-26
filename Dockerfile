@@ -6,7 +6,7 @@ RUN apt-get update \
 
 WORKDIR /app
 COPY package.json package-lock.json ./
-RUN npm ci --include=dev
+RUN npm install --legacy-peer-deps --ignore-scripts --package-lock=false --no-audit --no-fund --include=dev
 COPY . .
 RUN npm run build
 
